@@ -1,0 +1,11 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&c[Admin] &r'
+    Suffix: '&f'
+    SortPriority: 1
+  default:
+    Permission: nte.default
+    Prefix: '&a[jugador] &r'
+    Suffix: ''
+    SortPriority: -1

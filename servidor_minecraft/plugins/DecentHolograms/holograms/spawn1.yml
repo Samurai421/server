@@ -1,0 +1,14 @@
+location: w:81.000:72.000:97.500
+enabled: true
+display-range: 5
+update-range: 1
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: Bienvenido al server
+    height: 0.3
+  - content: listo para la aventura?
+    height: 0.3
+  actions: {}
